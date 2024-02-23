@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="35" viewBox="0 0 51 35">
+  <g id="right_arrow" data-name="right arrow" transform="translate(1.5 1.5)">
+    <g id="Group_94" data-name="Group 94" transform="translate(0 0)">
+      <path id="Path_104" data-name="Path 104" d="M1,100.333H44.586L31.293,87.04a1,1,0,0,1,1.414-1.414l15,15a1,1,0,0,1,0,1.414l-15,15a1,1,0,1,1-1.414-1.414l13.293-13.293H1a1,1,0,1,1,0-2Z" transform="translate(-0.001 -85.333)" fill="#444" stroke="#444" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
